@@ -9,7 +9,7 @@ This project is a data analysis of a delivery company where we worked with SQL a
 ### 🔧 Tools Used:
 - **SQL**: For database management, schema creation, and querying.
 - **Python**: For data manipulation, importing from Kaggle, and visualization.
-- **Kaggle Dataset**: The delivery data was sourced from a public Kaggle database.
+- [**Kaggle Dataset**](https://www.kaggle.com/datasets/kapturovalexander/karpovs-sql-simulator?resource=download&select=orders.csv): The delivery data was sourced from a public Kaggle database.
 - **Canva**: For presenting our findings in a clear and visually appealing format.
 
 
