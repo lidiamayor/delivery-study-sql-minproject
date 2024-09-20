@@ -38,7 +38,7 @@ We compiled our findings into a presentation, highlighting the key insights and 
 ---
 
 ## 📂 Project Structure
-- **SQL Schema Diagram**: [The SQL schema diagram illustrating the tables and their relationships.](https://github.com/lidiamayor/delivery-study-sql-minproject/blob/main/SQL/diagram.mwb)
+- [**SQL Schema Diagram**](https://github.com/lidiamayor/delivery-study-sql-minproject/blob/main/SQL/diagram.mwb): The SQL schema diagram illustrating the tables and their relationships.
 - **SQL Schema Design**: [Includes the SQL scripts for creating the database schema and tables.](https://github.com/lidiamayor/delivery-study-sql-minproject/blob/main/SQL/delivery_schema.sql)
 - **Data Import Script**: [Python script used to import data from Kaggle into SQL.](https://github.com/lidiamayor/delivery-study-sql-minproject/blob/main/python-sql.py)
 - **SQL Queries**: [A set of SQL queries to extract insights from the data.](https://github.com/lidiamayor/delivery-study-sql-minproject/blob/main/SQL/queries.sql)
