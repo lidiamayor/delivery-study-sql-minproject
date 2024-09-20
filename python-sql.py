@@ -8,7 +8,7 @@ password = ""  # Asegúrate de reemplazar esto con tu contraseña real
 connection_string = 'mysql+pymysql://root:' + password + '@localhost/' + bd
 engine = create_engine(connection_string)
 
-
+ 
 # Sample DataFrame (reemplaza esto con tu DataFrame real)
 '''url = 'Database/users.csv'
 df = pd.read_csv(url)
