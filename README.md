@@ -12,7 +12,7 @@ This project is a data analysis of a delivery company where we worked with SQL a
 - **Kaggle Dataset**: The delivery data was sourced from a public Kaggle database.
 - **Canva**: For presenting our findings in a clear and visually appealing format.
 
----
+--
 
 ## 🛠️ Project Workflow:
 
