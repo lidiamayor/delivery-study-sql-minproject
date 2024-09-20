@@ -1,6 +1,6 @@
 # 🚚 Delivery Data Analysis Project
 
-**Authors**: [Ana Solano](https://www.linkedin.com/in/ana-nofuentes-solano-654026a3/) & [Lidia Mayor](https://www.linkedin.com/in/lidia-mayor-sanjuan-3b350930b/)
+**Authors**: [Ana Nofuentes](https://www.linkedin.com/in/ana-nofuentes-solano-654026a3/) & [Lidia Mayor](https://www.linkedin.com/in/lidia-mayor-sanjuan-3b350930b/)
 
 ## 📋 Project Overview
 
@@ -46,5 +46,5 @@ We compiled our findings into a presentation, highlighting the key insights and 
 ## 📩 Contact Us
 
 For any questions or collaboration opportunities, feel free to reach out to us on LinkedIn:  
-- [Ana Solano](https://www.linkedin.com/in/ana-nofuentes-solano-654026a3/)  
+- [Ana Nofuentes](https://www.linkedin.com/in/ana-nofuentes-solano-654026a3/)  
 - [Lidia Mayor](https://www.linkedin.com/in/lidia-mayor-sanjuan-3b350930b/)
