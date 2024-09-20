@@ -12,7 +12,6 @@ This project is a data analysis of a delivery company where we worked with SQL a
 - **Kaggle Dataset**: The delivery data was sourced from a public Kaggle database.
 - **Canva**: For presenting our findings in a clear and visually appealing format.
 
---
 
 ## 🛠️ Project Workflow:
 
@@ -28,14 +27,12 @@ This project is a data analysis of a delivery company where we worked with SQL a
 4. **Data Analysis in Python**  
    Once the data was structured, we ran SQL queries from Python to extract insights and visualize the data with libraries like Matplotlib and Seaborn. These visualizations helped us analyze metrics such as delivery times, customer satisfaction, and order volumes.
 
----
 
 ## 🖼️ Storytelling Presentation
 
 We compiled our findings into a presentation, highlighting the key insights and actionable conclusions. You can view our final presentation here:  
 [📑 Delivery Data Analysis Presentation](https://www.canva.com/design/DAGROqHXPkc/TeP55Ue0gedK7ltgK876Ug/view?utm_content=DAGROqHXPkc&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
----
 
 ## 📂 Project Structure
 - [**SQL Schema Diagram**](https://github.com/lidiamayor/delivery-study-sql-minproject/blob/main/SQL/diagram.mwb): The SQL schema diagram illustrating the tables and their relationships.
@@ -45,11 +42,9 @@ We compiled our findings into a presentation, highlighting the key insights and 
 - [**Visualization Code**](https://github.com/lidiamayor/delivery-study-sql-minproject/blob/main/main.ipynb): Python code for generating the graphs and visualizations.
 - [**Functions File**](https://github.com/lidiamayor/delivery-study-sql-minproject/blob/main/functions.py): Python file containing reusable functions used throughout the project.
 
----
 
 ## 📩 Contact Us
 
 For any questions or collaboration opportunities, feel free to reach out to us on LinkedIn:  
 - [Ana Solano](https://www.linkedin.com/in/ana-nofuentes-solano-654026a3/)  
 - [Lidia Mayor](https://www.linkedin.com/in/lidia-mayor-sanjuan-3b350930b/)
-
