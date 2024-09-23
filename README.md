@@ -27,6 +27,22 @@ This project is a data analysis of a delivery company where we worked with SQL a
 4. **Data Analysis in Python**  
    Once the data was structured, we ran SQL queries from Python to extract insights and visualize the data with libraries like Matplotlib and Seaborn. These visualizations helped us analyze metrics such as delivery times, customer satisfaction, and order volumes.
 
+## 📊 Key Visual Insights
+
+Here are some key insights visualized from our analysis:
+
+### 1. SQL Database Schema
+   ![SQL Schema Diagram](https://github.com/lidiamayor/delivery-study-sql-minproject/blob/main/images/diagrama.png)  
+   *A clear representation of the relationships between tables in the delivery database.*
+
+### 2. Cancellation Frequency Analysis
+   ![Cancellation Frequency](https://github.com/lidiamayor/delivery-study-sql-minproject/blob/main/images/cancellation.png)  
+   *This chart shows the frequency at which orders are canceled depending on the time elapsed after placing the order.*
+
+### 3. Orders by Hour and Day of the Week
+   ![Orders by Hour and Day](https://github.com/lidiamayor/delivery-study-sql-minproject/blob/main/images/orders.png)  
+   *A heatmap displaying the distribution of orders by hour and day of the week, helping to identify peak times.*
+
 
 ## 🖼️ Storytelling Presentation
 
