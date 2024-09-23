@@ -27,7 +27,7 @@ This project is a data analysis of a delivery company where we worked with SQL a
 4. **Data Analysis in Python**  
    Once the data was structured, we ran SQL queries from Python to extract insights and visualize the data with libraries like Matplotlib and Seaborn. These visualizations helped us analyze metrics such as delivery times, customer satisfaction, and order volumes.
 
-## 📊 Key Visual Insights
+## 📸 Key Visual Insights
 
 Here are some key insights visualized from our analysis:
 
